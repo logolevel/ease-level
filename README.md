@@ -1,9 +1,5 @@
 # ease-level
 
-Tasks: https://confluence.ontrq.com/display/KB/Easy+level+-+native+JS
-
-First task: Textarea symbols counting
-https://logolevel.github.io/ease-level/01-textarea-symbol-counting/index.html
-
-Second task: Image loader
-https://logolevel.github.io/ease-level/02-image-loader/index.html
+<a href="https://confluence.ontrq.com/display/KB/Easy+level+-+native+JS">Tasks</a>
+<p><a href="https://logolevel.github.io/ease-level/01-textarea-symbol-counting/index.html">Textarea symbols counting</a></p>
+<p><a href="https://logolevel.github.io/ease-level/02-image-loader/index.html">Image loader</a></p>
